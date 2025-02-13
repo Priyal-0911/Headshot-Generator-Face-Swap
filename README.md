@@ -98,15 +98,8 @@ python3 main.py
 
 - Missing Models: Ensure you’ve downloaded the required models (sam_vit_h_4b8939.pth and groundingdino_swint_ogc.pth) and placed them in the correct directories (ComfyUI/models/sams/ and ComfyUI/models/grounding-dino/).
 
-## Slow Performance: 
+## Slow Performance:
 Using a GPU is highly recommended for better performance. If you’re using a CPU, the processing time may be longer.
 
-## Compute Infrastructure
-
-## Hardware
-
-NVIDIA GeForce RTX 3060 card
-
 ## Model Card Contact
-
 For inquiries and contributions, please contact us at priyalmehta921@gmail.com.
